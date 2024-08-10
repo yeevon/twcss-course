@@ -25,5 +25,6 @@ module.exports = {
     require("./plugins/tableCaption"),
     require("./plugins/buttonPlugin"),
     require("./plugins/outlineSolid"),
+    require("./plugins/diagonalRadius"),
   ],
 };
